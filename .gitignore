@@ -1,0 +1,36 @@
+# Ignore all files...
+*
+
+# ...but track those with selected names
+!*.cpp
+!*.h
+!*.dat
+!Makefile
+!README
+!LICENCE
+!.gitignore
+
+# track jupyter-notebooks, but not assignments
+!*.ipynb
+LSN_Exercises*
+
+# These files are needed by the random numner generator.
+!Primes
+!seed.in
+
+# Track bad renamed files from first lesson
+!data.txt
+!data1.txt
+!data_2_S1.txt
+!data_2_S2.txt
+!data_2_S10.txt
+!data_2_S100.txt
+
+
+# Include all directories, except some.
+!*/
+#exercise-tools/
+#rng/
+.ipynb_checkpoints
+
+
