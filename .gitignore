@@ -5,6 +5,7 @@
 !*.cpp
 !*.h
 !*.dat
+!*.png
 !Makefile
 !README
 !LICENCE
