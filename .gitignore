@@ -19,7 +19,7 @@ LSN_Exercises*
 !Primes
 !seed.in
 
-# Track bad renamed files from first lesson
+# Track bad renamed files from first and sixth lesson
 !data.txt
 !data1.txt
 !data_2_S1.txt
@@ -27,6 +27,16 @@ LSN_Exercises*
 !data_2_S10.txt
 !data_2_S100.txt
 
+!output.chi*
+!output.ene*
+!output.heat*
+!output.mag*
+
+# Track input configurations
+!config.0
+!config.fcc
+!input.pigs
+!input.pimc
 
 # Include all directories, except some.
 !*/
