@@ -7,7 +7,7 @@
 !*.dat
 !*.png
 !Makefile
-!README
+!README.md
 !LICENCE
 !.gitignore
 
